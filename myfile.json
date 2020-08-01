@@ -4,12 +4,12 @@
             "negative": 0,
             "normal": 10
       },
-      "Andorra \n": {
+      "Andorra ": {
             "positive": 35,
             "negative": 0,
             "normal": 15
       },
-      "Angola \n": {
+      "Angola ": {
             "positive": 40,
             "negative": 10,
             "normal": 0
@@ -19,127 +19,127 @@
             "negative": 0,
             "normal": 0
       },
-      "Bahrain \n": {
+      "Bahrain ": {
             "positive": 0,
             "negative": 0,
             "normal": 8
       },
-      "Belarus \n": {
+      "Belarus ": {
             "positive": 32,
             "negative": 0,
             "normal": 0
       },
-      "Benin \n": {
+      "Benin ": {
             "positive": 57,
             "negative": 0,
             "normal": 0
       },
-      "Bosnia and Herzegovina \n": {
+      "Bosnia and Herzegovina ": {
             "positive": 32,
             "negative": 0,
             "normal": 23
       },
-      "Bulgaria \n": {
+      "Bulgaria ": {
             "positive": 16,
             "negative": 0,
             "normal": 0
       },
-      "Burkina Faso \n": {
+      "Burkina Faso ": {
             "positive": 0,
             "negative": 0,
             "normal": 2
       },
-      "Cabo Verde \n": {
+      "Cabo Verde ": {
             "positive": 20,
             "negative": 0,
             "normal": 30
       },
-      "Cameroon \n": {
+      "Cameroon ": {
             "positive": 30,
             "negative": 0,
             "normal": 20
       },
-      "Cape Verde \n": {
+      "Cape Verde ": {
             "positive": 0,
             "negative": 0,
             "normal": 50
       },
-      "Croatia \n": {
+      "Croatia ": {
             "positive": 45,
             "negative": 0,
             "normal": 5
       },
-      "Cyprus \n": {
+      "Cyprus ": {
             "positive": 25,
             "negative": 5,
             "normal": 20
       },
-      "Czech Republic \n": {
+      "Czech Republic ": {
             "positive": 50,
             "negative": 0,
             "normal": 0
       },
-      "Djibouti \n": {
+      "Djibouti ": {
             "positive": 30,
             "negative": 0,
             "normal": 20
       },
-      "Equatorial Guinea \n": {
+      "Equatorial Guinea ": {
             "positive": 45,
             "negative": 0,
             "normal": 5
       },
-      "Eritrea \n": {
+      "Eritrea ": {
             "positive": 0,
             "negative": 0,
             "normal": 50
       },
-      "Ethiopia \n": {
+      "Ethiopia ": {
             "positive": 10,
             "negative": 0,
             "normal": 52
       },
-      "Finland \n": {
+      "Finland ": {
             "positive": 0,
             "negative": 0,
             "normal": 8
       },
-      "France \n": {
+      "France ": {
             "positive": 15,
             "negative": 0,
             "normal": 35
       },
-      "Gabon \n": {
+      "Gabon ": {
             "positive": 46,
             "negative": 0,
             "normal": 12
       },
-      "Georgia \n": {
+      "Georgia ": {
             "positive": 2,
             "negative": 0,
             "normal": 0
       },
-      "Germany \n": {
+      "Germany ": {
             "positive": 35,
             "negative": 0,
             "normal": 15
       },
-      "Ghana \n": {
+      "Ghana ": {
             "positive": 20,
             "negative": 0,
             "normal": 30
       },
-      "Gibraltar \n": {
+      "Gibraltar ": {
             "positive": 45,
             "negative": 0,
             "normal": 5
       },
-      "Greece \n": {
+      "Greece ": {
             "positive": 62,
             "negative": 20,
             "normal": 0
       },
-      "Iceland \n": {
+      "Iceland ": {
             "positive": 2,
             "negative": 0,
             "normal": 0
@@ -149,12 +149,12 @@
             "negative": 0,
             "normal": 8
       },
-      "Isle of Man \n": {
+      "Isle of Man ": {
             "positive": 4,
             "negative": 0,
             "normal": 4
       },
-      "Italy \n": {
+      "Italy ": {
             "positive": 20,
             "negative": 10,
             "normal": 20
@@ -164,117 +164,117 @@
             "negative": 0,
             "normal": 0
       },
-      "Kenya \n": {
+      "Kenya ": {
             "positive": 10,
             "negative": 0,
             "normal": 49
       },
-      "Kosovo \n": {
+      "Kosovo ": {
             "positive": 27,
             "negative": 0,
             "normal": 8
       },
-      "Latvia \n": {
+      "Latvia ": {
             "positive": 20,
             "negative": 0,
             "normal": 30
       },
-      "Lebanon \n": {
+      "Lebanon ": {
             "positive": 40,
             "negative": 0,
             "normal": 10
       },
-      "Liechtenstein \n": {
+      "Liechtenstein ": {
             "positive": 35,
             "negative": 0,
             "normal": 15
       },
-      "Lithuania \n": {
+      "Lithuania ": {
             "positive": 15,
             "negative": 0,
             "normal": 35
       },
-      "Monaco \n": {
+      "Monaco ": {
             "positive": 45,
             "negative": 0,
             "normal": 21
       },
-      "Montenegro \n": {
+      "Montenegro ": {
             "positive": 2,
             "negative": 0,
             "normal": 0
       },
-      "Niger \n": {
+      "Niger ": {
             "positive": 0,
             "negative": 0,
             "normal": 2
       },
-      "Nigeria \n": {
+      "Nigeria ": {
             "positive": 40,
             "negative": 0,
             "normal": 10
       },
-      "North Macedonia \n": {
+      "North Macedonia ": {
             "positive": 58,
             "negative": 0,
             "normal": 20
       },
-      "Oman \n": {
+      "Oman ": {
             "positive": 12,
             "negative": 0,
             "normal": 6
       },
-      "Portugal \n": {
+      "Portugal ": {
             "positive": 31,
             "negative": 0,
             "normal": 0
       },
-      "Qatar \n": {
+      "Qatar ": {
             "positive": 0,
             "negative": 0,
             "normal": 8
       },
-      "Republic of the Congo \n": {
+      "Republic of the Congo ": {
             "positive": 30,
             "negative": 0,
             "normal": 20
       },
-      "Romania \n": {
+      "Romania ": {
             "positive": 50,
             "negative": 0,
             "normal": 0
       },
-      "San Marino \n": {
+      "San Marino ": {
             "positive": 20,
             "negative": 10,
             "normal": 20
       },
-      "Saudi Arabia \n": {
+      "Saudi Arabia ": {
             "positive": 30,
             "negative": 0,
             "normal": 20
       },
-      "Seychelles \n": {
+      "Seychelles ": {
             "positive": 30,
             "negative": 0,
             "normal": 20
       },
-      "Slovenia \n": {
+      "Slovenia ": {
             "positive": 50,
             "negative": 0,
             "normal": 0
       },
-      "Somalia \n": {
+      "Somalia ": {
             "positive": 30,
             "negative": 0,
             "normal": 20
       },
-      "Spain \n": {
+      "Spain ": {
             "positive": 11,
             "negative": 0,
             "normal": 19
       },
-      "Kuwait \n": {
+      "Kuwait ": {
             "positive": 1,
             "negative": 0,
             "normal": 0
