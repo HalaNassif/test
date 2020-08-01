@@ -1,5 +1,5 @@
 {
-      "Algeria \n": {
+      "Algeria ": {
             "positive": 40,
             "negative": 0,
             "normal": 10
@@ -14,7 +14,7 @@
             "negative": 10,
             "normal": 0
       },
-      "Austria \n": {
+      "Austria ": {
             "positive": 70,
             "negative": 0,
             "normal": 0
@@ -144,7 +144,7 @@
             "negative": 0,
             "normal": 0
       },
-      "Iraq \n": {
+      "Iraq ": {
             "positive": 0,
             "negative": 0,
             "normal": 8
@@ -159,7 +159,7 @@
             "negative": 10,
             "normal": 20
       },
-      "Jordan \n": {
+      "Jordan ": {
             "positive": 50,
             "negative": 0,
             "normal": 0
