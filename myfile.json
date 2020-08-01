@@ -1,0 +1,282 @@
+{
+      "Algeria \n": {
+            "positive": 40,
+            "negative": 0,
+            "normal": 10
+      },
+      "Andorra \n": {
+            "positive": 35,
+            "negative": 0,
+            "normal": 15
+      },
+      "Angola \n": {
+            "positive": 40,
+            "negative": 10,
+            "normal": 0
+      },
+      "Austria \n": {
+            "positive": 70,
+            "negative": 0,
+            "normal": 0
+      },
+      "Bahrain \n": {
+            "positive": 0,
+            "negative": 0,
+            "normal": 8
+      },
+      "Belarus \n": {
+            "positive": 32,
+            "negative": 0,
+            "normal": 0
+      },
+      "Benin \n": {
+            "positive": 57,
+            "negative": 0,
+            "normal": 0
+      },
+      "Bosnia and Herzegovina \n": {
+            "positive": 32,
+            "negative": 0,
+            "normal": 23
+      },
+      "Bulgaria \n": {
+            "positive": 16,
+            "negative": 0,
+            "normal": 0
+      },
+      "Burkina Faso \n": {
+            "positive": 0,
+            "negative": 0,
+            "normal": 2
+      },
+      "Cabo Verde \n": {
+            "positive": 20,
+            "negative": 0,
+            "normal": 30
+      },
+      "Cameroon \n": {
+            "positive": 30,
+            "negative": 0,
+            "normal": 20
+      },
+      "Cape Verde \n": {
+            "positive": 0,
+            "negative": 0,
+            "normal": 50
+      },
+      "Croatia \n": {
+            "positive": 45,
+            "negative": 0,
+            "normal": 5
+      },
+      "Cyprus \n": {
+            "positive": 25,
+            "negative": 5,
+            "normal": 20
+      },
+      "Czech Republic \n": {
+            "positive": 50,
+            "negative": 0,
+            "normal": 0
+      },
+      "Djibouti \n": {
+            "positive": 30,
+            "negative": 0,
+            "normal": 20
+      },
+      "Equatorial Guinea \n": {
+            "positive": 45,
+            "negative": 0,
+            "normal": 5
+      },
+      "Eritrea \n": {
+            "positive": 0,
+            "negative": 0,
+            "normal": 50
+      },
+      "Ethiopia \n": {
+            "positive": 10,
+            "negative": 0,
+            "normal": 52
+      },
+      "Finland \n": {
+            "positive": 0,
+            "negative": 0,
+            "normal": 8
+      },
+      "France \n": {
+            "positive": 15,
+            "negative": 0,
+            "normal": 35
+      },
+      "Gabon \n": {
+            "positive": 46,
+            "negative": 0,
+            "normal": 12
+      },
+      "Georgia \n": {
+            "positive": 2,
+            "negative": 0,
+            "normal": 0
+      },
+      "Germany \n": {
+            "positive": 35,
+            "negative": 0,
+            "normal": 15
+      },
+      "Ghana \n": {
+            "positive": 20,
+            "negative": 0,
+            "normal": 30
+      },
+      "Gibraltar \n": {
+            "positive": 45,
+            "negative": 0,
+            "normal": 5
+      },
+      "Greece \n": {
+            "positive": 62,
+            "negative": 20,
+            "normal": 0
+      },
+      "Iceland \n": {
+            "positive": 2,
+            "negative": 0,
+            "normal": 0
+      },
+      "Iraq \n": {
+            "positive": 0,
+            "negative": 0,
+            "normal": 8
+      },
+      "Isle of Man \n": {
+            "positive": 4,
+            "negative": 0,
+            "normal": 4
+      },
+      "Italy \n": {
+            "positive": 20,
+            "negative": 10,
+            "normal": 20
+      },
+      "Jordan \n": {
+            "positive": 50,
+            "negative": 0,
+            "normal": 0
+      },
+      "Kenya \n": {
+            "positive": 10,
+            "negative": 0,
+            "normal": 49
+      },
+      "Kosovo \n": {
+            "positive": 27,
+            "negative": 0,
+            "normal": 8
+      },
+      "Latvia \n": {
+            "positive": 20,
+            "negative": 0,
+            "normal": 30
+      },
+      "Lebanon \n": {
+            "positive": 40,
+            "negative": 0,
+            "normal": 10
+      },
+      "Liechtenstein \n": {
+            "positive": 35,
+            "negative": 0,
+            "normal": 15
+      },
+      "Lithuania \n": {
+            "positive": 15,
+            "negative": 0,
+            "normal": 35
+      },
+      "Monaco \n": {
+            "positive": 45,
+            "negative": 0,
+            "normal": 21
+      },
+      "Montenegro \n": {
+            "positive": 2,
+            "negative": 0,
+            "normal": 0
+      },
+      "Niger \n": {
+            "positive": 0,
+            "negative": 0,
+            "normal": 2
+      },
+      "Nigeria \n": {
+            "positive": 40,
+            "negative": 0,
+            "normal": 10
+      },
+      "North Macedonia \n": {
+            "positive": 58,
+            "negative": 0,
+            "normal": 20
+      },
+      "Oman \n": {
+            "positive": 12,
+            "negative": 0,
+            "normal": 6
+      },
+      "Portugal \n": {
+            "positive": 31,
+            "negative": 0,
+            "normal": 0
+      },
+      "Qatar \n": {
+            "positive": 0,
+            "negative": 0,
+            "normal": 8
+      },
+      "Republic of the Congo \n": {
+            "positive": 30,
+            "negative": 0,
+            "normal": 20
+      },
+      "Romania \n": {
+            "positive": 50,
+            "negative": 0,
+            "normal": 0
+      },
+      "San Marino \n": {
+            "positive": 20,
+            "negative": 10,
+            "normal": 20
+      },
+      "Saudi Arabia \n": {
+            "positive": 30,
+            "negative": 0,
+            "normal": 20
+      },
+      "Seychelles \n": {
+            "positive": 30,
+            "negative": 0,
+            "normal": 20
+      },
+      "Slovenia \n": {
+            "positive": 50,
+            "negative": 0,
+            "normal": 0
+      },
+      "Somalia \n": {
+            "positive": 30,
+            "negative": 0,
+            "normal": 20
+      },
+      "Spain \n": {
+            "positive": 11,
+            "negative": 0,
+            "normal": 19
+      },
+      "Kuwait \n": {
+            "positive": 1,
+            "negative": 0,
+            "normal": 0
+      }
+}
