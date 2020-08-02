@@ -1,0 +1,12 @@
+{
+	"Australia": {
+		"positve": 50,
+		"negative": 30,
+		"normal": 20
+	},
+	"Egypt": {
+		"positve": 50,
+		"negative": 30,
+		"normal": 20
+	}
+}
