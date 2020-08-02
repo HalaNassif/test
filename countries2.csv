@@ -44,7 +44,7 @@ Costa Rica,Costa Rica,-83.7534,9.7489
 Cote d'Ivoire,Cote d'Ivoire,-5.5471,7.54
 Croatia,Croatia,15.2,45.1
 Cuba,Cuba,-80.0,22.0
-Curaçao,Curaçao,-68.99,12.1696
+CuraÃ§ao,CuraÃ§ao,-68.99,12.1696
 Cyprus,Cyprus,33.4299,35.1264
 Czech Republic,Czech Republic,15.472999999999999,49.8175
 Denmark,Denmark,9.5018,56.2639
@@ -63,7 +63,7 @@ Ethiopia,Ethiopia,40.4897,9.145
 Faeroe Islands,Faeroe Islands,-6.9118,61.8926
 Fiji,Fiji,178.065,-17.7134
 Finland,Finland,26.0,64.0
-France,France,2.2137,46.2276
+France,France,2.2137,46.2276,20
 French Guiana,French Guiana,-53.1258,3.9339
 French Polynesia,French Polynesia,149.4068,-17.6797
 Gabon,Gabon,11.6094,-0.8037
@@ -88,20 +88,20 @@ Iceland,Iceland,-19.0208,64.9631
 India,India,78.0,21.0
 Indonesia,Indonesia,113.9213,-0.7893
 Iran,Iran,53.0,32.0
-Iraq,Iraq,44.0,33.0
+Iraq,Iraq,44.0,33.0,20
 Ireland,Ireland,-7.6921,53.1424
 Isle of Man,Isle of Man,-4.5481,54.2361
-Italy,Italy,12.0,43.0
+Italy,Italy,12.0,43.0,20
 Jamaica,Jamaica,-77.2975,18.1096
 Japan,Japan,138.0,36.0
-Jordan,Jordan,36.51,31.24
+Jordan,Jordan,36.51,31.24,20
 Kazakhstan,Kazakhstan,66.9237,48.0196
 Kenya,Kenya,37.9062,-0.0236
 Kosovo,Kosovo,20.903000000000002,42.6026
 Kuwait,Kuwait,47.75,29.5
 Kyrgyzstan,Kyrgyzstan,74.7661,41.2044
 Latvia,Latvia,24.6032,56.8796
-Lebanon,Lebanon,35.8623,33.8547
+Lebanon,Lebanon,35.8623,33.8547,20
 Liberia,Liberia,-9.4295,6.4281
 Liechtenstein,Liechtenstein,9.55,47.14
 Lithuania,Lithuania,23.8813,55.1694
@@ -150,7 +150,7 @@ Russia,Russia,90.0,60.0
 Rwanda,Rwanda,29.8739,-1.9403
 Saint Lucia,Saint Lucia,-60.9789,13.9094
 San Marino,San Marino,12.4578,43.9424
-Saudi Arabia,Saudi Arabia,45.0,24.0
+Saudi Arabia,Saudi Arabia,45.0,24.0,20
 Senegal,Senegal,-14.4524,14.4974
 Serbia,Serbia,21.0059,44.0165
 Seychelles,Seychelles,55.492,-4.6796
