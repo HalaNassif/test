@@ -1,0 +1,47 @@
+{
+  "Iraq ": {
+    "positive": 0,
+    "negative": 0,
+    "normal": 8
+  },
+  "Italy ": {
+    "positive": 20,
+    "negative": 10,
+    "normal": 20
+  },
+  "Jordan ": {
+    "positive": 50,
+    "negative": 0,
+    "normal": 0
+  },
+  "Lebanon ": {
+    "positive": 40,
+    "negative": 0,
+    "normal": 10
+  },
+  "Oman ": {
+    "positive": 12,
+    "negative": 0,
+    "normal": 6
+  },
+  "Qatar ": {
+    "positive": 0,
+    "negative": 0,
+    "normal": 8
+  },
+  "Romania ": {
+    "positive": 50,
+    "negative": 0,
+    "normal": 0
+  },
+  "Saudi Arabia ": {
+    "positive": 30,
+    "negative": 0,
+    "normal": 20
+  },
+  "Kuwait ": {
+    "positive": 1,
+    "negative": 0,
+    "normal": 0
+  }
+}
