@@ -1,0 +1,17 @@
+{
+	"Iraq": {
+		"positve": 0,
+		"negative": 0,
+		"normal": 8
+	},
+	"Italy": {
+		"positve": 20,
+		"negative": 10,
+		"normal": 20
+	},
+	"Jordan": {
+		"positve": 50,
+		"negative": 0,
+		"normal": 0
+	}
+}
